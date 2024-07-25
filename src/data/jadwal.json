@@ -1,0 +1,75 @@
+[
+    {
+        "hari": "senin",
+        "data": [
+            {"jam": "1", "mapel": "PKK", "ruangan": "RC-1.2"},
+            {"jam": "2", "mapel": "PKK", "ruangan": "RC-1.2"},
+            {"jam": "3", "mapel": "PKN", "ruangan": "RC-1.2"},
+            {"jam": "4", "mapel": "PKN", "ruangan": "RC-1.2"},
+            {"jam": "5", "mapel": "MTK", "ruangan": "RC-1.2"},
+            {"jam": "6", "mapel": "MTK", "ruangan": "RC-1.2"},
+            {"jam": "7", "mapel": "B. Inggris", "ruangan": "RC-1.2"},
+            {"jam": "8", "mapel": "B. Inggris", "ruangan": "RC-1.2"},
+            {"jam": "9", "mapel": "MTK", "ruangan": "RC-1.2"},
+            {"jam": "10", "mapel": "PAI", "ruangan": "RC-1.2"}
+        ]
+    },
+    {
+        "hari": "selasa",
+        "data": [
+            {"jam": "1", "mapel": "Produktif", "ruangan": "RC-1.3"},
+            {"jam": "2", "mapel": "Produktif", "ruangan": "RC-1.3"},
+            {"jam": "3", "mapel": "Produktif", "ruangan": "RC-1.3"},
+            {"jam": "4", "mapel": "Produktif", "ruangan": "RC-1.3"},
+            {"jam": "5", "mapel": "Produktif", "ruangan": "RC-1.3"},
+            {"jam": "6", "mapel": "Produktif", "ruangan": "RC-1.3"},
+            {"jam": "7", "mapel": "B. Jepang", "ruangan": "RC-2.3"},
+            {"jam": "8", "mapel": "B. Jepang", "ruangan": "RC-2.3"},
+            {"jam": "9", "mapel": "SILAT", "ruangan": "Lapangan"},
+            {"jam": "10", "mapel": "SILAT", "ruangan": "Lapangan"}
+        ]
+    },
+    {
+        "hari": "rabu",
+        "data": [
+            {"jam": "1", "mapel": "PJOK", "ruangan": "Lapangan"},
+            {"jam": "2", "mapel": "PJOK", "ruangan": "Lapangan"},
+            {"jam": "3", "mapel": "B. Indonesia", "ruangan": "Bengkel TBO"},
+            {"jam": "4", "mapel": "B. Indonesia", "ruangan": "Bengkel TBO"},
+            {"jam": "5", "mapel": "PLH", "ruangan": "RA-3.3"},
+            {"jam": "6", "mapel": "PLH", "ruangan": "RA-3.3"},
+            {"jam": "7", "mapel": "Produktif", "ruangan": "RC-1.2"},
+            {"jam": "8", "mapel": "Produktif", "ruangan": "RC-1.2"},
+            {"jam": "9", "mapel": "Produktif", "ruangan": "RC-1.2"},
+            {"jam": "10", "mapel": "Produktif", "ruangan": "RC-1.2"}
+        ]
+    },
+    {
+        "hari": "kamis",
+        "data": [
+            {"jam": "1", "mapel": "Sejarah", "ruangan": "RD-2.2"},
+            {"jam": "2", "mapel": "Sejarah", "ruangan": "RD-2.2"},
+            {"jam": "3", "mapel": "B. Indonesia", "ruangan": "RD-2.2"},
+            {"jam": "4", "mapel": "B. Indonesia", "ruangan": "RD-2.2"},
+            {"jam": "5", "mapel": "MTK", "ruangan": "RD-2.2"},
+            {"jam": "6", "mapel": "MTK", "ruangan": "RD-2.2"},
+            {"jam": "7", "mapel": "Produktif", "ruangan": "RC-1.4"},
+            {"jam": "8", "mapel": "Produktif", "ruangan": "RC-1.4"},
+            {"jam": "9", "mapel": "Produktif", "ruangan": "RC-1.4"},
+            {"jam": "10", "mapel": "Produktif", "ruangan": "RC-1.4"}
+        ]
+    },
+    {
+        "hari": "jumat",
+        "data": [
+            {"jam": "1", "mapel": "PAI", "ruangan": "Masjid"},
+            {"jam": "2", "mapel": "PAI", "ruangan": "Masjid"},
+            {"jam": "3", "mapel": "B. Inggris", "ruangan": "Masjid"},
+            {"jam": "4", "mapel": "B. Inggris", "ruangan": "Masjid"},
+            {"jam": "5", "mapel": "Produktif", "ruangan": "RC-1.4"},
+            {"jam": "6", "mapel": "Produktif", "ruangan": "RC-1.4"},
+            {"jam": "7", "mapel": "Produktif", "ruangan": "RC-1.4"},
+            {"jam": "8", "mapel": "Produktif", "ruangan": "RC-1.4"}
+        ]
+    }
+]
