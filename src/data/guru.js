@@ -1,23 +1,20 @@
-[
+const guruData = [
     {
-        "nama": "Drs. H. SUARDI",
-        "nomer": "",
-        "mapel": "",
-        "mapelId": ""
-    },
-    {
+        "id": "1",
         "nama": "Hj YOYOH MAESAROH",
         "nomer": "",
         "mapel": "",
         "mapelId": ""
     },
     {
+        "id": "2",
         "nama": "BUDHI SUNARYO",
         "nomer": "",
         "mapel": "",
         "mapelId": ""
     },
     {
+        "id": "",
         "nama": "JUMHAN MUNIF",
         "nomer": "",
         "mapel": "",
@@ -90,7 +87,8 @@
         "mapelId": ""
     },
     {
-        "nama": "ANZALYA WAHYUNINGTYAS",
+        "id": "",
+        "nama": "ANZALIA DWI N",
         "nomer": "",
         "mapel": "",
         "mapelId": ""
@@ -126,16 +124,18 @@
         "mapelId": ""
     },
     {
+        "id": "13",
         "nama": "ELI SOLIHAT",
         "nomer": "",
-        "mapel": "",
-        "mapelId": ""
+        "mapel": "Pendidikan Agama & Budi Pekerti",
+        "mapelId": "A"
     },
     {
+        "id": "21",
         "nama": "EMMY MEUTHIA OCTIVANI",
         "nomer": "",
-        "mapel": "",
-        "mapelId": ""
+        "mapel": "Bahasa Inggris",
+        "mapelId": "F"
     },
     {
         "nama": "ERWIN BAHAR",
@@ -162,6 +162,7 @@
         "mapelId": ""
     },
     {
+        
         "nama": "HARISA RAHMAH",
         "nomer": "",
         "mapel": "",
@@ -186,10 +187,11 @@
         "mapelId": ""
     },
     {
+        "id": "24",
         "nama": "IDRUS ENDANG KOSASIH",
         "nomer": "",
-        "mapel": "",
-        "mapelId": ""
+        "mapel": "Projek Kreatif dan Kewirausahaan",
+        "mapelId": "I"
     },
     {
         "nama": "INDRI LESTARI",
@@ -234,10 +236,11 @@
         "mapelId": ""
     },
     {
+        "id": "44",
         "nama": "MEGA SILVIA",
         "nomer": "",
-        "mapel": "",
-        "mapelId": ""
+        "mapel": "Pendidikan Pancasila",
+        "mapelId": "B"
     },
     {
         "nama": "MELANI KARTIKA SARI",
@@ -492,3 +495,5 @@
         "mapelId": ""
     }
 ]
+
+export default guruData

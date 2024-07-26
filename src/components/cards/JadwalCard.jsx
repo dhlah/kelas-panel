@@ -6,6 +6,7 @@ export default function JadwalCard({ data }) {
         <TableRow>
             <TableCell className="font-medium">{data.jam}</TableCell>
             <TableCell>{data.mapel}</TableCell>
+            <TableCell>{data.guru}</TableCell>
             <TableCell className="text-right">{data.ruangan}</TableCell>
         </TableRow>
     )

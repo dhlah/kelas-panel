@@ -1,5 +1,5 @@
-import guruData from '../data/guru.json';
-import jadwalData from '../data/jadwal.json'
+import guruData from "@/data/guru";
+import jadwalData from "@/data/jadwal";
 
 export function searchGuru(query) {
     try {

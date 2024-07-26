@@ -26,6 +26,7 @@ export default async function JadwalPage({ searchParams }) {
             <TableRow>
               <TableHead className="w-[100px]">Jam</TableHead>
               <TableHead>Mapel</TableHead>
+              <TableHead>Guru</TableHead>
               <TableHead className="text-right">Ruangan</TableHead>
             </TableRow>
           </TableHeader>
